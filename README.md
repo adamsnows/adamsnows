@@ -1,5 +1,5 @@
 ## 
-Olá, sou o Adam, developer em desenvolvimento, formação de full stack na Kenzie Academy!
+<h1 align="center"> Olá, sou o Adam, developer em desenvolvimento, formação de full stack na Kenzie Academy!</h1>
 <div align="center">
   <a href="https://github.com/adamsnows">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adamsnows&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
