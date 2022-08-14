@@ -13,6 +13,7 @@
   <img align="center" alt="adam-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="adam-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
   <img align="center" alt="adam-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
+  <img align="center" alt="adam-nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   
   
   
