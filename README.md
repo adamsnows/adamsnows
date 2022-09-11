@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsnows&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-<img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs" />
 
 
   
