@@ -1,5 +1,5 @@
 <h1 align="center">Hey, i'm Adam, a Front end web Developer, about to become a fullstack developer!</h1>
-<div align="center"><img height="300em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"></div> </br>
+<div align="center"><img height="500em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"></div> </br>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=adamsnows&row=1&column=6&theme=nord&margin-w=15&margin-h=15"/></div>
 <br/>
 <div align="center"><img align="center" height="500em" src="./profile-3d-contrib/profile-night-rainbow.svg" /></div>
