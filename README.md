@@ -28,7 +28,6 @@
   <a href = "mailto:adaamangelow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adam-neves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/adamsnows/adamsnows/blob/output/github-contribution-grid-snake.svg)
   <h2>Do you wanna see any of my jobs? i recommend you <a href="https://www.nexusgamestand.com/" target="_blank"> that!</a></h2>
  
 </div>
