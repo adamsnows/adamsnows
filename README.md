@@ -8,7 +8,6 @@
  
 </div>
 
-##
 <div align="center"><img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,bootstrap,sass,nodejs" /> </div>
 
 <br/>
