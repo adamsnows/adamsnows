@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Neves</h1>
 <h3 align="center">A passionate FullStack Web Developer and Software Engineer</h3>
 
-- 🔬 I’m currently working on **Fullstack Development with TypeScript, React, and Node.js**
+- 🔬 I’m currently developing a new app for us! :)
 
 - 🌟 I’m currently learning **Machine Learning and Cloud Infrastructure**
 
