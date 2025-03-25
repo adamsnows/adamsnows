@@ -9,7 +9,7 @@
 
 - 💻 All of my projects are available at [https://github.com/adamsnows](https://github.com/adamsnows)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express, TailwindCSS**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express, TailwindCSS, Python, Django, FastAPI, React Native**
 
 - 📧 How to reach me **adaamangelow@gmail.com**
 
