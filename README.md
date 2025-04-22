@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express, TailwindCSS, Python, Django, FastAPI, React Native**
 
-- 📧 How to reach me **adaamangelow@gmail.com**
+- 📧 How to reach me 
+- Email: **adaamangelow@gmail.com**
+- WhatsApp: **(84) 99139-8170**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
