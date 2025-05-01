@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam Neves</h1>
 <h3 align="center">A passionate FullStack Web Developer and Software Engineer</h3>
 
-- 🔬 I’m currently developing a new app for us! :)
+- 🔬 I’m currently developing a new app and working for Wicomm
 
 - 🌟 I’m currently learning **Machine Learning and Cloud Infrastructure**
 
-- 💪 I’m looking to collaborate on **Web Development and Scalable Applications**
+- 💪 I’m looking to collaborate on **Scalable Applications**
 
 - 💻 All of my projects are available at [https://github.com/adamsnows](https://github.com/adamsnows)
 
