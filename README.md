@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Neves</h1>
-<h3 align="center">A passionate FullStack Web Developer and Software Engineer</h3>
+<h3 align="center">A passionate FullStack Developer and Software Engineer</h3>
 
 - 🔬 I’m currently developing a new app and working for Wicomm
 
