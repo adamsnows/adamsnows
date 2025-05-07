@@ -1,37 +1,40 @@
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:6D28D9,100:030712&height=180&section=header"
+  alt="Header"
+/>
 <h1 align="center">Hi 👋, I'm Adam Neves</h1>
 <h3 align="center">A passionate FullStack Developer and Software Engineer</h3>
+<h2>About me</h2>
 
-- 🔬 I’m currently developing a new app and working for Wicomm with GitLab
-
-- 🌟 I’m currently learning **Machine Learning and Cloud Infrastructure**
-
-- 💪 I’m looking to collaborate on **Scalable Applications**
-
+- 🔬 I'm currently developing a new app and working for Wicomm with GitLab
+- 🌟 I'm currently learning **Machine Learning and Cloud Infrastructure**
+- 💪 I'm looking to collaborate on **Scalable Applications**
 - 💻 All of my projects are available at [https://github.com/adamsnows](https://github.com/adamsnows)
+- 💬 Ask me about **JavaScript, TypeScript, React, Relay, Next.js, Node.js, Express, GraphQL, TailwindCSS, Python, Django, FastAPI, React Native**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express, TailwindCSS, Python, Django, FastAPI, React Native**
 
-- 📧 How to reach me 
-- Email: **adaamangelow@gmail.com**
-- WhatsApp: **(84) 99139-8170**
+<div align="center">
+  <img
+    width="55%"
+    height="295px"
+    src="https://github-readme-stats.vercel.app/api?username=adamsnows&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en"
+    alt="Adam Neves GitHub Stats"
+  />
+  <img
+    width="44.5%"
+    height="295px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsnows&layout=compact&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en&size_weight=0.5&count_weight=0.5"
+    alt="Adam Neves Top Languages"
+  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adam-neves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adamsnows/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=adamsnows" alt="My GitHub Stats">
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adamsnows&bg_color=030712&color=F9FAFB&line=818182&point=F9FAFB&area=true&border_color=1f2937&radius=16&title_color=F9FAFB&area_color=F9FAFB&grid=false&custom_title=Contribution%20Graph"
+  alt="Contribution Graph"
+/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:6D28D9,100:030712&height=180&section=footer"
+  alt="Footer"
+/>
