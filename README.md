@@ -35,6 +35,6 @@
 />
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=footer"
   alt="Footer"
 />
