@@ -7,7 +7,7 @@
 <h3 align="center">A passionate FullStack Developer and Software Engineer</h3>
 <h2>About me</h2>
 
-- 🔬 I'm currently developing a new app and working for Wicomm with GitLab
+- 🔬 I'm currently developing a **[new app](https://github.com/vizinn-app/readme)** and working for Wicomm with GitLab
 - 🌟 I'm currently learning **Machine Learning and Cloud Infrastructure**
 - 💪 I'm looking to collaborate on **Scalable Applications**
 - 💻 All of my projects are available at [https://github.com/adamsnows](https://github.com/adamsnows)
