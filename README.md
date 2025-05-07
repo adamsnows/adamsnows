@@ -15,17 +15,19 @@
 
 
 <div align="center">
-  <img
-    width="55%"
-    height="295px"
-    src="https://github-readme-stats.vercel.app/api?username=adamsnows&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en"
-    alt="Adam Neves GitHub Stats"
-  />
+
   <img
     width="44.5%"
     height="295px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsnows&layout=compact&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en&size_weight=0.5&count_weight=0.5"
     alt="Adam Neves Top Languages"
+  />
+
+  <img
+    width="55%"
+    height="295px"
+    src="https://github-readme-stats.vercel.app/api?username=adamsnows&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en"
+    alt="Adam Neves GitHub Stats"
   />
 </div>
 
