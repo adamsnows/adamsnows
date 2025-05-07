@@ -38,3 +38,11 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=footer"
   alt="Footer"
 />
+
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,javascript,typescript,css,html,react,nextjs,graphql,tailwind,sass,nodejs,python,fastapi,django,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,aws,gcp,vercel,githubactions,discord,apple,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
