@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:6D28D9,100:030712&height=180&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header"
   alt="Header"
 />
 <h1 align="center">Hi 👋, I'm Adam Neves</h1>
@@ -35,6 +35,6 @@
 />
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:6D28D9,100:030712&height=180&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=header"
   alt="Footer"
 />
