@@ -3,9 +3,8 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header"
   alt="Header"
 />
-<h1 align="center">Hi 👋, I'm Adam Neves</h1>
-<h3 align="center">A passionate FullStack Developer and Software Engineer</h3>
-<h2>About me</h2>
+
+<h1 align="center">Hi, I'm Adam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 - 🔬 I'm currently developing a **[new app](https://github.com/vizinn-app/readme)** and working for [Wicomm](https://www.wicomm.com.br) with [GitLab](https://git.fbits.net/adamsnows)
 - 🌟 I'm currently focusing on increase my github collab.
