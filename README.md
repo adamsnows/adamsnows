@@ -6,10 +6,13 @@
 
 <h1 align="center">Hi, I'm Adam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- 🔬 I'm currently developing a **[new app](https://github.com/vizinn-app/readme)** and working for [Wicomm](https://www.wicomm.com.br) with [GitLab](https://git.fbits.net/adamsnows)
+- 🔬 I'm currently developing a **[new app](https://github.com/vizinn-app/app)** [![Stars](https://img.shields.io/github/stars/vizinn-app/monorepo?style=social)](https://github.com/vizinn-app/app)
+- ⚒️ Working for [Wicomm](https://www.wicomm.com.br) with [GitLab](https://git.fbits.net/adamsnows)
 - 🌟 I'm currently focusing on increase my github collab.
 - 💻 All of my projects are available at [https://github.com/adamsnows](https://github.com/adamsnows)
 - 💬 Ask me about **JavaScript, TypeScript, React, Relay, Next.js, Node.js, Express, GraphQL, TailwindCSS, Python, Django, FastAPI, React Native**
+
+
 
 
 <div align="center">
