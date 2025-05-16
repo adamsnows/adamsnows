@@ -10,7 +10,6 @@
 - ⚒️ Working for [Wicomm](https://www.wicomm.com.br) with [GitLab](https://git.fbits.net/adamsnows)
 - 🌟 I'm currently focusing on increase my github collab.
 - 💻 All of my projects are available at [https://github.com/adamsnows](https://github.com/adamsnows)
-- 💬 Ask me about **JavaScript, TypeScript, React, Relay, Next.js, Node.js, Express, GraphQL, TailwindCSS, Python, Django, FastAPI, React Native**
 
 
 
