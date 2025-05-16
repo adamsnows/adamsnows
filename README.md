@@ -31,10 +31,6 @@
 </div>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adamsnows&bg_color=030712&color=F9FAFB&line=818182&point=F9FAFB&area=true&border_color=1f2937&radius=16&title_color=F9FAFB&area_color=F9FAFB&grid=false&custom_title=Contribution%20Graph"
-  alt="Contribution Graph"
-/>
-<img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=footer"
   alt="Footer"
