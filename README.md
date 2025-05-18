@@ -9,7 +9,7 @@
 - 🔬 I'm currently developing a **[new open source app](https://github.com/vizinn-app/app)** do you want to help? [![Stars](https://img.shields.io/github/stars/vizinn-app/monorepo?style=social)](https://github.com/vizinn-app/app)
 - ⚒️ Working for [Wicomm](https://www.wicomm.com.br) e-Commerce Software House with [GitLab](https://git.fbits.net/adamsnows)
 - 🌟 I'm currently focusing on increase my github collab.
-- 💻 I've worked on e-commerce platforms, fintech systems, educational tools, sales automation, internal management systems, and chatbots using IA as a full-stack and mobile developer.
+- 💻 I've worked on e-commerce platforms, fintech systems, educational tools, web games, sales automation, internal management systems, and chatbots using IA as a full-stack and mobile developer.
 
 
 
