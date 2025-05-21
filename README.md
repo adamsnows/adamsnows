@@ -6,11 +6,11 @@
 
 <h1 align="center">Hi, I'm Adam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- I'm currently developing a **[new open source app](https://github.com/vizinn-app/app)** do you want to help? [![Stars](https://img.shields.io/github/stars/vizinn-app/monorepo?style=social)](https://github.com/vizinn-app/app)
-- Working for [Wicomm](https://www.wicomm.com.br) e-Commerce Software House with [GitLab](https://git.fbits.net/adamsnows)
-- I'm currently focusing on increase my github collab.
-- I've worked on e-commerce platforms, fintech systems, educational tools, web games, sales automation, internal management systems, and chatbots using IA as a full-stack and mobile developer.
-- You can see a little bit more of my entire career as software engineer on my [site](https://adamsnows.vercel.app/)!
+- I'm currently developing a **[new open source app](https://github.com/vizinn-app/app)**, want to help? [![Stars](https://img.shields.io/github/stars/vizinn-app/monorepo?style=social)](https://github.com/vizinn-app/app)  
+- Working at [Wicomm](https://www.wicomm.com.br), an e-commerce software house, using [GitLab](https://git.fbits.net/adamsnows) for daily development  
+- Focused on increasing my open-source collaboration and GitHub contributions  
+- I've worked as a full-stack and mobile developer on a wide range of projects, including e-commerce platforms, fintech systems, educational tools, web games, sales automation tools, internal management systems, and AI-powered chatbots  
+- You can learn more about my journey as a software engineer on my [website](https://adamsnows.vercel.app/)  
 
 
 
