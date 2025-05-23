@@ -13,7 +13,7 @@
 - You can learn more about my journey as a software engineer on my [website](https://adamsnows.vercel.app/)  
 
 
-
+<!--
 <div align="center">
   <img
     width="40%"
@@ -27,7 +27,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsnows&layout=compact&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en&size_weight=0.5&count_weight=0.5"
     alt="Adam Neves Top Languages"
   />
-</div>
+</div> -->
 
 
 
