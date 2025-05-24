@@ -13,24 +13,6 @@
 - You can learn more about my journey as a software engineer on my [website](https://adamsnows.vercel.app/)  
 
 
-<!--
-<div align="center">
-  <img
-    width="40%"
-    height="295px"
-    src="https://github-readme-stats.vercel.app/api?username=adamsnows&card_width=295&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en"
-    alt="Adam Neves GitHub Stats"
-  />
-  <img
-    width="47%"
-    height="295px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsnows&layout=compact&title_color=F9FAFB&text_color=9ca3af&bg_color=030712&border_color=1f2937&icon_color=6D28D9&border_radius=16&locale=en&size_weight=0.5&count_weight=0.5"
-    alt="Adam Neves Top Languages"
-  />
-</div> -->
-
-
-
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,typescript,nodejs,python,react,nextjs,graphql,tailwind,sass,fastapi,django,express,nest,vue,docker,figma,jest,linux,postman,vercel,vite,bootstrap,mongodb,postgres,aws,gcp,vercel,githubactions" />
