@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Adam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- I'm currently developing a **[new open source app](https://github.com/adamsnows/vizinn)**, want to help? [![Stars](https://img.shields.io/github/stars/vizinn-app/monorepo?style=social)](https://github.com/vizinn-app/app)  
+- I'm currently developing **[DevScout](https://devscout.app)**, take a look at it, it can help u to get ur first job! 
 - Working at [Wicomm](https://www.wicomm.com.br), an e-commerce software house, using [GitLab](https://git.fbits.net/adamsnows) for daily development  
 - Focused on increasing my open-source collaboration and GitHub contributions  
 - I've worked as a full-stack and mobile developer on a wide range of projects, including e-commerce platforms, fintech systems, educational tools, web games, sales automation tools, internal management systems, and AI-powered chatbots  
