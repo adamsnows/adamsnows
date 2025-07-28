@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Adam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- I'm currently developing **[DevScout](https://devscout.app)**, take a look at it, it can help u to get ur first job! 
+- I'm currently building everyday **[DevScout](https://devscout.app)**, take a look at it, it can help u to get ur first job! 
 - Working at [Woovi](https://www.woovi.com.br), developing instant payment infrastructure with Pix
 - Focused on increasing my GitHub contributions  
 - I've worked as a full-stack and mobile developer on a wide range of projects, including e-commerce platforms, fintech systems, educational tools, web games, sales automation tools, internal management systems, and AI-powered chatbots  
