@@ -1,13 +1,10 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header&text=Adam%20Neves&fontSize=50&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20DevScout&descAlignY=55&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header&text=Adam%20Neves&fontSize=50&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Founder%20DevScout&descAlignY=55&descSize=18"
   alt="Header"
 />
-
-<h1 align="center">Hi, I'm Adam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
 <p align="center">
-  <a href="https://adamsnows.vercel.app/"><img src="https://img.shields.io/badge/Website-adamsnows.vercel.app-2c5282?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://adamsnows.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-adamsnows.vercel.app-2c5282?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://devscout.app"><img src="https://img.shields.io/badge/DevScout-devscout.app-1e3a5f?style=for-the-badge&logo=rocket&logoColor=white" alt="DevScout"></a>
 </p>
 
