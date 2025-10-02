@@ -13,7 +13,7 @@
 ### About Me
 
 - Currently building **[DevScout](https://devscout.app)** - An AI-powered platform helping developers land their first job
-- Full-stack developer specializing in modern web technologies and scalable architectures
+- Software Engineer specializing in modern web technologies and scalable architectures
 - Experienced in **e-commerce**, **fintech**, **educational tools**, **AI chatbots**, and **automation systems**
 - Passionate about creating tools that solve real-world problems
 - Learn more about my journey at my [portfolio](https://adamsnows.vercel.app/)
