@@ -12,7 +12,7 @@
 
 ### About Me
 
-- Currently building **[DevScout](https://devscout.app)** - An AI-powered platform helping developers land their first job
+- Currently building **[DevScout](https://devscout.app)** - An AI-powered platform helping developers land their first/better job automated!
 - Software Engineer specializing in modern web technologies and scalable architectures
 - Experienced in **e-commerce**, **fintech**, **educational tools**, **AI chatbots**, and **automation systems**
 - Passionate about creating tools that solve real-world problems
